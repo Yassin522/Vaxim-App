@@ -1,0 +1,16 @@
+Enter keystore password:  
+Re-enter new password: 
+What is your first and last name?
+  [Unknown]:  envytheme
+What is the name of your organizational unit?
+  [Unknown]:  envytheme
+What is the name of your organization?
+  [Unknown]:  envytheme
+What is the name of your City or Locality?
+  [Unknown]:  sylhet
+What is the name of your State or Province?
+  [Unknown]:  sylhet
+What is the two-letter country code for this unit?
+  [Unknown]:  bd
+Is CN=envytheme, OU=envytheme, O=envytheme, L=sylhet, ST=sylhet, C=bd correct?
+  [no]:  yes
